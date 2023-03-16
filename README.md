@@ -14,7 +14,7 @@ pip install numpy pandas matplotlib scikit-learn
 
 # Obtención de los datos 
 
-Para la obtención de los datos, el profesor uso un servidor de Redis al cual nosotros nos conectamos mediante el código del archivo ***P1pubsub.py*** y dicho servidor nos responde con la información en un archivo tipo JSON, después el código extrae la información valida y esa es almacenada en unos archivos de tipo CSV, que son los archivos ***Data1-X.csv*** y ***Data1-Y.csv***.
+Para la obtención de los datos, el profesor uso un servidor de Redis al cual nosotros nos conectamos mediante el código del archivo ***P1pubsub.py*** y dicho servidor nos responde con la información en un archivo tipo **JSON**, después el código extrae la información valida y esa es almacenada en unos archivos de tipo **CSV**, que son los archivos ***Data1-X.csv*** y ***Data1-Y.csv***.
 
 
 # Grafica de los puntos 
