@@ -20,7 +20,7 @@ Para la obtención de los datos, el profesor uso un servidor de Redis al cual no
 # Tratamiento de los datos 
 
 Primero se leen los datos de los archivos y se transforman a tipo `<class 'numpy.ndarray'>` para su posterior uso:
-```python
+```html
 #IMPORTAMOS LOS ARCHIVOS 
 nombreX = "data1-X.csv" 
 nombreY = "data1-Y.csv" 
